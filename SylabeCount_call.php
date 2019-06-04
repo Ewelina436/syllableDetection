@@ -11,3 +11,4 @@ require_once ("SyllabeCount.php");
 $sylabeCount=new SyllabeCount();
 $word=$_GET['przedsadowy'];
 $sylabeCount->getSyllabeCount($word);
+//zmiany jakieś
